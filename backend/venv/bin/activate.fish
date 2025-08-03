@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/parth-raval/Desktop/Docker-Tutorials/ares/backend/venv
+set -gx VIRTUAL_ENV /home/parth-raval/Desktop/Docker-Tutorials/ares_backup/backend/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
